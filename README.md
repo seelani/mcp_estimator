@@ -1,0 +1,1 @@
+This estimator is used to estimate the cost of your running resources in DD MCP
